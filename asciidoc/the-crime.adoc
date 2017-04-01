@@ -1,0 +1,58 @@
+= Beginning
+////
+Version: Core Edition
+
+Status: Complete::Staging
+
+Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective)
+////
+
+== Summary
+
+We begin the tale with Jezebel Black and Courtney Ellington in the study of Courtney's apartment. If you are following the story using git, you can return to this part of the story with `git checkout beginning`. 
+
+*** 
+
+=== Story 
+
+"Okay, Courtney, the crime, taken from the top," Jezebel pointed at a rather crude drawing on Courtney's white board. "The center of the chaos is Fast Times Auto Body Repair Shop. The back door shows sign of forcible entry. The arsonist, or perhaps arsonists, gather the auto body's left over scrap metal into the center of the room, right above the fire extinguisher. They set several strips off magnesium on the sheet metal and one large block in the center. Ignited, the magnesium burns with extraordinary heat and which sets off a fire alarm and sets off a sprinkler system. But water doesn't put out a chemical fire. The interesting part of this set up is that it seems to be part of a general plan to convince the fire department that the fire is far worse than it actually is." 
+
+"This is followed up by the controlled explosion that occurs right after the fire trucks arrive on the scene," Courtney added. 
+
+"Yes, so the fire chief determines a potential bomb threat. There is no bomb, and no reason to suspect terrorist activity of any kind. But the authorities begin an evacuation. Fast Times Auto Body, thanks to the wonders of zoning, is right next to a border between commercial and residential, so residents are removed from homes. After the evacuation, six burglaries of private residences are reported. Police estimate about $15000 worth of stolen goods," Jezebel continued.
+
+"They were professionals, this was a team effort. But the pay off isn't worth the level of coordination and risk," Courtney surmised.
+
+"Most certainly not. Consider the scenes. Six burglaries, one arson. Note the care not to actually cause damage to the original shop--and how things don't fit. The shop was insured for arson 100%. It burning down would have caused little pain to the owner. Also note, the burglars not touching the shop's safe, which the owner revealed to be carrying $12,500 in cash. The arsonist(s) were carrying materials capable of burning through that safe. Even if they got into it, they passed up on $12,500. Presumably they were being paid more to leave it there. None of the premium sports cars were stolen either. A number of them received some serious smoke damage, which will bring the shop in a little business, but I suspect an unexpected windfall for the owner." Jezebel paused for a moment.
+
+"Of course, if the crew was after something that the owner wouldn't report missing..."
+
+"Excellent Courtney. Clearly this series of crimes was orchestrated to hide the nature of what the perpatrators were after. We are left with not one but seven crime scenes acknowledged by the police, and perhaps at least one scene that went unreported. Which aspect of the case do you find most suspicious?
+
+.How should Courtney respond?
+****
+If she says, "The arsonist," then `git checkout start-with-arson`
+
+If she says, "The robberies," then `git checkout start-with-robberies`
+
+If she says, "The evacuation," then `git checkout start-with-neighborhood`
+
+If she says, "The auto shop," then `git checkout start-with-crime-scene`
+****
+
+.Tutorials
+****
+
+If stuck on the decision, then consider:
+
+Git Tutorial `git checkout tutorial`
+
+Crime Dossiers `git checkout dossiers`
+
+Using git for hints, `git checkout hints`
+
+If you wish to purchase a custom inventory `git checkout shopping` 
+
+For info how to track custom inventory, `git checkout tutorial`, then search for the git tutorial entitled 'tracking-custom-inventory'
+
+****
