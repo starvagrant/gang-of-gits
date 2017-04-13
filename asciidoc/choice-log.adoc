@@ -23,3 +23,11 @@ Scenes:
 		robbery-investgation
 		criminal-contacts-investigation
 	Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective)
+
+3. The Fireman
+	Last Choice: 
+		**arson-investigation**
+	Ending Choices
+		the insider	
+	Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective), Simon Hedges (fireman)
+////

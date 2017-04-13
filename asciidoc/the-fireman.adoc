@@ -1,0 +1,128 @@
+= The Acquitted
+
+////
+Version: Core Edition
+
+Status: Complete::Staging
+
+Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective), Simon Hedges
+////
+
+
+== Lead, Head Fireman
+
+After considering which avenues of investigation to pursue, Jezebel and Courtney settle on interviewing the fireman that made the decision to evacuate the area.
+
+=== Investigation
+
+"Simon Hedges, head of the fire department," Jezebel declared.
+
+"I know that part," Simon responded, "Who are you?"
+
+"Jezebel Black. This is my counterpart, Courtney Ellington."
+
+"How do you do, ladies?"
+
+"Just fine," Courtney responded, taking the lead, "We're private detectives."
+
+"You working the arson case too?"
+
+"Well, not exactly. The police are looking for the criminals, we're on the look out for aggrieved parties. People who might need some investigation with a little discretion."
+
+"That so?"
+
+"Yes. We're not looking to involve the police. As such, we don't really have access to the police investigation, which I'm sure will be thorough."
+
+"Pity. What do you expect to do?"
+
+"It's all in the details Mr. Hedges. You see there's a 48 hour window in which the arsonist may have gain access to the mechanics. The robberies have a narrower time frame, but determining how did what when is anyone's guess. We're trying to put together the story, of course, and it seems there's one event we can pin down exactly. Your request for evacuation. That we do know."
+
+"Looking for a good foothold to start?" The man looked distractedly into his drink. He looked back at Jezebel, who he sensed was the one in charge, but turned back to Courtney, who was doing the investigating. "Well I'll basically tell you what I told police. Nine windows on the west side broke at once, and fire spewed out of all of them. It matched the profile of highly explosive material, and I called it in."
+
+"And given what you knew then, I'd say it was a good decision. But..."
+
+"But what?" the fireman looked up at Courtney, clearly annoyed.
+
+"Someone anticipated it. Someone was laying a fake trail for you. If we could get into your mind, the moment you made the decision, we might be able to better understand what the arsonist was trying to do."
+
+"Have you investigated many fires miss?" the Simon asked derisively.
+
+"No, not exactly." 
+
+"Why don't you leave this matter to the experts?" Simon suggested.
+
+"Well," Jezebel chimed in, "Courtney's a little new at this. Maybe to arson forensics, but not to investigation."
+
+"Oh, well then. You suspect the police aren't checking into their counterparts as closely as the should?" Simon taunted.
+
+"Yes," Jezebel answered, without a flinch or tell of any kind. "And I believe you might misunderstand our intentions. We don't intend to hinder the investigation. We follow big police cases, but not necessarily to solve them."
+
+"Then why are you asking me questions about the crime?"
+
+"When there are multiple injured parties, as so happens in a case like this, some parties can't necessarily turn to police. They want information, but they'll pay us for discretion. Maybe they're on the run from the law. Maybe turning to the police will make them look like snitches. Maybe a hundred different things, but they're an aggreived party. Now, if what happened with your call for evacuation doesn't match what you told the police, you'd look like a suspect."
+
+"Damn right I would," Simon shot back.
+
+"So maybe there's some incosistencies that need handling, which we could handle, for a price."
+
+"Ain't nothing I can handle," Simon looked down at his glass.
+
+"Really?" asked Jezebel. "Then why are in a bar on a weeknight? Never mind. I think we've been wasting your time. Come on Courtney."
+
+"No, wait." Simon looked up at the sleuths leaving. "You two can keep your mouths shut around the police?"
+
+"So long as there's an arrangement," Jezebel noted.
+
+"How about I take you two ladies for a ride? I'll bring you back to the bar in about an hour."
+
+"Sure," Jezebel responded. Pretending to scratch her back, she checked the status of her .22 pistol, which she hid in an improvised holster located on the small of her back. Simon paid his bar tab and walked the pair to his aging Honda Accord.
+
+As soon as the door was shut, Simon responded, "They didn't all explode at once, the windows. They exploded individually, over the course of about two seconds. So long as there's no video, no one will doubt that detail. Even if they did, I could be excused for making that mistake."
+
+"A rather crucial detail," Courtney responded.
+
+"It is. As long as there's a belief in an explosion scenario, they'll be looking for evidence in wrong places. Particularly if the evidence that would lead them somewhere is already removed from the scene. Arson investigations always try to limit access to samples collected, keep them as few hands as possible, hands they can trust."
+
+"Your hands," Jezebel commented. "What did you do?"
+
+"The West Side windows were next to a sprinkler. So chemically interesting water becomes city water, and no one knows the wiser. I'll deny it all, of course, should someone mention it. Is that information interesting enough for a hire?"
+
+"Well, if the explosive's residue was meant to be washed away with water, it suggests the arsonist had access to the sprinkler system. Means an inside job."
+
+"Yes. Look, the longer an arson investigation goes on, the worse things get. Crucial physical evidence gets overlooked. Witnesses become more unreliable. If evidence doesn't start forming a cohesive picture, no story can be told about how things happened, or worse, the detectives do so much thinking that they think their way into a scenario that won't hold up in court. I get the feeling that's what's going on here," Simon finished has summation.
+
+"Long as you keep your mouth shut?" Courtney asked.
+
+"Yes."
+
+"Then someone has some leverage over you. Something they can squeeze."
+
+Simon tried to hold back some tears, but couldn't. "You could put it like that. My daughter. She's been kidnapped. They said to call in the evacuation. They told me to make sure the police kept away from the windows. I'm... they said they'd give her back if the arson investigation went to their liking. But that may take weeks. I read online most kidnappings have a 48 hour window, and that's well gone by now. I've got money I was saving up for her college. Seems rather useless if she's not even around to use it. Can you help me?"
+
+"That depends on whether you have access to the police's investigation files."
+
+"I can get you anything. Perhaps through unofficial mind you, but I can get it. It won't be suspicious for the head of the fire department to get those files. But, don't you want to know the details of the kidnapping?"
+
+"I do," Jezebel responded. "But I think this case will be laid to rest when someone can get a handle on the motive for the crime. There's only two kinds of cases I can think of where a perpetrator would take some much pains to conceal a motive, to extort people to tamper with evidence."
+
+"What are those two crimes?" Simon asked with trepidation.
+
+"Money laundering and murder." 
+
+.Up Next
+`git checkout the-insider`
+
+.Tutorials
+****
+
+Git Tutorial `git checkout tutorial`
+
+Crime Dossiers `git checkout dossiers`
+
+Using git for hints, `git checkout hints`
+
+If you wish to purchase a custom inventory `git checkout shopping` 
+
+For info how to track custom inventory, `git checkout tutorial`, then search for the git tutorial entitled 'tracking-custom-inventory'
+
+****
