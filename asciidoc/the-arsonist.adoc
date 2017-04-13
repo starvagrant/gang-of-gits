@@ -1,0 +1,145 @@
+= Begin with the Arsonist
+////
+Version: Core Edition
+
+Status: Complete::Staging
+
+Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective)
+////
+
+== Prime Suspect, the Arsonist
+
+After the strange behavior of the arsonist in the beginning crime, Courtney decides to look into the arsonist as closely as possible. (Note, if this is not the path you want, you can `git checkout beginning`
+
+=== A strange M.O.
+
+"Well, I will say this Courtney. The crime begins with the arsonist. Looking at the case from this angle does not identify motives or suspects. But these may be inferred from the behavior of the arsonist. In concordance with the methods of solving criminal cases, we must ask ourselves, does the criminal's behavior warrant assigning a rational motive? Because all inferences are based on details and that working assumption."
+
+"Well, the behavior seems too complicated to lack motive. This crime was carried out in several steps, and created a clear effect--an evacuation."
+
+"That effect may very well be the intent, it is of course is difficult to say. Arson takes place in multiple steps. The criminal gets access to the building. Fire is by nature unpredictable. It takes some time to ensure that a building will burn as intended. Given the highly specific results of the perpetrator, we can guess they had both time and skill. So where did he get that skill, and how could he ensure that he had access to the building long enough to acheive his purpose?"
+
+"The crime did occur on a Sunday night. The shop would have been closed 48 hours. You can't deduce facts regarding access with that large a time frame."
+
+"Courtney, I've said it before. There are no such things as facts. There are details. Details concord with what is."
+
+"Yes, of course. Haven't gotten used to your lingo yet. The detail in question is a potential 48 hour window for the crime to occur."
+
+"That does put a big blotch of time for us to narrow down. There are several points to attack an arson case. Access to the building is one. The time an arsonist has in the building, his general plan, the insurance of the building's owner, the first witness to the blaze."
+
+"The fireman who made the judgment of potential explosive material and caused the place to be evacuated."
+
+"He does represent someone who the police might over look. Of course it's too early to say. The police are probably still compiling witness testimony. There's where the fun begins."
+
+"Fun?" Courtney asked in surprise. 
+
+"Your so called facts have to be observed by someone. Nothing will dampen your belief in objectivity than contradicting police reports. Particularly when you factor in that the further in time that the witnesses are interviewed, the more disparate facts appear. Not that I necessarily always bet all my cards on police interviews, case this big."
+
+"How exactly do you have access to police reports of an active investigation anyway, Jezebel?"
+
+"Outsourcing. Handle a few high profile cases and I can beg some information off police contacts," Jezebel replied, pacing up and down the room.
+
+"How do you get paid on a public case?" Courtney asked.
+
+"Not by the police. How much do you believe in justice, Courtney? In law and order? Taking the bad guy down?"
+
+"I don't know. I don't know how I became a private snoop. Needed out of the tech-startup world for a little while, I guess."
+
+"Of course. You can't stay in worlds you're not made for. But you haven't answered my question."
+
+"Umm... well about right and wrong. If they were sure things, everyone would agree on them. But then there are times when I just feel it. I'm just certain that there are wrong things to do, even if no one agrees with me."
+
+"Interesting answer Courtney. You don't believe in an absolute right or wrong, but believe in your ability to judge things wrong independently of anyone else."
+
+"What do you think of the question Jezebel?"
+
+"There are two types of crime. Crimes against individuals and crimes against the state. A state which claims to follow the rule of law must have laws that resolve conflicts and stick to those procedures. But crimes against individuals should be solved between individuals, with individual resolutions. I provide those resolutions, for a fee. As such, we're not really looking for what the police are."
+
+"Someone with a grievance that can't be resolved through the police?"
+
+"Yes. Someone hired this arsonist. We'll have to wait for sufficient eyewitness interviews to determine a time, but we can certainly infer something. The arsonist did not demonstrate direct maliciousness to the owner. Everything in his actions was controlled burn. Not enough to burn the building down, not enough to produce a large insurance settlement. Enough to get police eyes on the owner's books, but that's what you hire a PI to do, not an arsonist. I can only imagine the auto body shop merely represented a crime of opportunity--an ability to pilfer the area undetected. Large police force clearing homes in chaos and confusion? Easy way to dress up like the police and proceed with a robbery--particularly if you're using the police to get said individuals out of their homes. 
+
+"To get someone out of a house who ordinarily would always be in it, or have it always guarded?" Courtney mused.
+
+"I think we're working too much on guess work here. Time to hit the databases."
+
+"Databases? I thought you weren't into computers?"
+
+"I can push a few keys on the keyboard. Besides, criminal databases aren't that hard to get access to if you know how to get passwords offline."
+
+"Attack the human element. First rule of cracking. You may not need as much of my computer help as you might think," Courtney stated.
+
+"I want to see how you handle this case," Jezebel replied. "I know my methods quite well. I want to see yours. Now give me computer a little time to load and let's get started."
+
+"You know what you're looking for?"
+
+"Criminal records of the six witnesses that had their apartments raided. See who might need some personal attention."
+
+"Someone who might have the funds for a PI?"
+
+"Of course, that'll be in my mind. But I want to show you how much can be inferred from a criminal record. You aren't so familiar with them, I think."
+
+"The ones that don't have to leave their desks to get the job done, those I know," Courtney quipped.
+
+"Ah, cyber criminals. Haven't had the pleasure of hunting one yet. If you've dealt with a few hackers in your time, you might know more than you think. Someone breaking into a secure website for credit cards might not have the nerve to snatch one from a purse. The questions are simple. What laws is a criminal willing to break, and how often does he get caught? Serious crimes with long pauses in between--that's a professional, most likely. Someone who plans, and learns from mistakes. Gets out of prison surrounded by criminals that have taught him all the latest tricks, and the latest pitfalls. One of the most counterproductive aspects of prison is that one is surrounded by criminals. A whole community to learn from. That's one of the reasons I deal with things privately. Of course there are others..." she winked. 
+
+"So what precisely are our red flags on any of the burgarly victims?"
+
+"The more elaborate the scheme, the more elaborate the pay off. We're looking for criminals still in business, or might have associates in business. Ok, let's match are victims. Jeremy Steiner, no criminal record. Paul Ludendorf, two felony accounts of marijuana possesion with intent to distribute, another for marijuana cultivation. Fifteen years in prison total. Model prisoner, earned advanced degrees in accounting... this guy's a business man. I think he's a distraction from the arson case, but this guy's in enterpeneur. He's probably trying to make a mark in the legal marijuana industry at this point, and probably making some money at it.
+
+"Peter Gardener charged with murder, acquitted on appeal."
+
+"What were grounds for dismissal?"
+
+"Police sought DNA evidence to link him to the scene of the crime. Police obtained a written confession and closed the case. The DNA evidence was in Mr. Gardner's favor, information passed on to the police and prosecutor but not the defense."
+
+"Why would the police withhold evidence like that?"
+
+"It's a funny thing, this business of investigation. You get worked up into a line of thought, where all the details are concordant with that line of thought that you stop looking once you have your bombshell. Police thought he was guilty, they got the confession, case closed. Of course the appeal only notes the trial was improperly conducted. Apparently the judged also ruled out the confession--the evidence he was tried on in the first place. Lacking material evidence or reliable witnessess, the court couldn't make a case."
+
+"How would you judge his prospects?"
+
+"Difficult to say. I'm surprised he bothered to call the police, honestly. Might not be to excited about getting them involved. Here, again, someone who might take a favorable look at a private detective over a police one, but to what end?"
+
+"Third criminal record and it's a long one. Second degree assault, three B and E's, crack possession with intent to distribute, armed robbery, and lastly, second degree arson."
+
+"That a promising lead?" Courtney asked.
+
+"Not really. A laundry list of petty offences is a career criminal who isn't advancing. Little education, poor resume. I forget the statutes on arson in this state but it's likely the fire wasn't even intentional, let alone pre-mediated. It's a seven year old charge."
+
+"None of this connects back to the original arsonist," Courtney replied.
+
+"Well investigation isn't all connect the dots. Sometimes it's just a long persistent slog of research."
+
+"Research other than just criminal background."
+
+"Exactly. We have three criminals and three law abiding citizens. We have a crime done in a specific area within a limited time frame. Links amongst those victims may well just be geography. An unreported theft may be what we're really after, but if we can't reconstruct the crimes, figure out who did what where, that seventh target will elude us. So we've got a few options. We can keep following up with the police on the arson case, that's the law's angle. An independent entity might find a place in it. We can case the neighborhood that was robbed and try to see the robber's methods of selecting targets. We can interview the victims--probably the acquited murderer probably got sprung from the work of private detectives and been less than forthcoming with the police. I might hit one of my criminal contacts. What do you have in mind?"
+
+
+.How should Courtney respond?
+****
+If she says, "Continue the arson investigation" then `git checkout arson-investigation`
+
+If she says, "Case the neighborhood" then `git checkout neighborhood-investigation`
+
+If she says, "Interview the robbery victims," then `git checkout robbery-investgation`
+
+If she says, "Your criminal contacts" then `git checkout criminal-contacts-investigation`
+****
+
+.Tutorials
+****
+
+If stuck on the decision, then consider:
+
+Git Tutorial `git checkout tutorial`
+
+Crime Dossiers `git checkout dossiers`
+
+Using git for hints, `git checkout hints`
+
+If you wish to purchase a custom inventory `git checkout shopping` 
+
+For info how to track custom inventory, `git checkout tutorial`, then search for the git tutorial entitled 'tracking-custom-inventory'
+
+****
