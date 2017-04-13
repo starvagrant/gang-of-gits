@@ -12,10 +12,10 @@ Scenes:
 		start-with-robberies
 		start-with-neighborhood
 		start-with-crime-scene
-	Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective) 
+	Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective)
 
 2. The Arsonist
-	Last Choice: 
+	Last Choice:
 		**start-with-arson**
 	Ending Choices
 		arson-investigation
@@ -23,3 +23,10 @@ Scenes:
 		robbery-investgation
 		criminal-contacts-investigation
 	Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective)
+
+3. The Acquitted
+	Last Choice:
+		**robbery-investigation**
+	Ending Choices
+		jim-walcott
+	Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective), Peter Gardener (acquitted of murder on appeal), Jack Bennington (rival sleuth, mentioned not present)
