@@ -1,0 +1,20 @@
+= Choice Log
+////
+Version: Core Edition
+
+Scenes:
+
+1. The Crime
+	Last Choice:
+		**Story Beginning**
+	Ending Choices
+		start-with-arson
+		start-with-robberies
+		start-with-neighborhood
+		start-with-crime-scene
+
+1. The Crime
+Characters: Courtney Weber-Ellington (detective partner), Nina Jezebel Black (detective) 
+
+////
+
